@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">uts_mobile_1</string>
+    <string name="profil_fakultas_upn">PROFIL FAKULTAS UPN</string>
+    <string name="_1_teknik_informatika_n2_sistem_informasi">1. Teknik Informatika\n2. Sistem Informasi</string>
+    <string name="fakultas_ilmu_komputer_merupakan_salah_satu_dari_7_fakultas_di_upn_veteran_jawa_timur_yang_teridiri_dari_program_studi">Fakultas Ilmu Komputer merupakan salah satu dari 7 Fakultas di UPN VeteranJawa Timur. Yang teridiri dari program studi:</string>
+    <string name="fakultas_ilmu_komputer">FAKULTAS ILMU KOMPUTER</string>
+    <string name="todo">TODO</string>
+</resources>
